@@ -7,7 +7,7 @@ Software Developer with rock-solid experience in building complex applications w
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@glitzyken)
 
 ⚡️ **More about me**
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning web3
 - 💬 Ask me anything about Web Engineering, JavaScript, Vue/Nuxt, Nodejs, SPAs, PWAs, Web Accessibility, UX, Technical Writing 
 - 📫 How to reach me: - Twitter: [@glitzyken17](https://twitter.com/gliztyken17), - LinkedIn: [Kenneth Jimmy](https://www.linkedin.com/in/kenneth-jimmy-b84092191/), - Mail: [Send a mail!](mailto:kenjimmy17@gmail.com)
 
