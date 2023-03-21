@@ -1,14 +1,14 @@
 ### You there? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-Software Developer with rock-solid experience in building complex applications with JavaScript, TypeScript, Vue.js, NuxtJS, Express.js, Nodejs and other tools in the JavaScript ecosystem. Decomposing complex problems into logic, data, and UI components are my forte, and despite JavaScript frameworks, I build products that scale well 🚀.
+Software Developer with rock-solid experience in building complex applications with JavaScript, TypeScript, Vue.js, NuxtJS, Express.js, Nodejs and other tools in the JavaScript ecosystem. Decomposing complex problems into logic is my forte, and despite JavaScript frameworks, I build products that scale well 🚀.
 
 ⚡️ **What I do**
 - 👨🏽‍💻 Backend Engineer at [Bossbus](https://bossbusworld.com/)
-- ⚙️ Currently building [Spasora](https://spasora.com/)
+- ⚙️ Currently building [Veet](https://joinveet.com/)
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@glitzyken)
 
 ⚡️ **More about me**
 - 🌱 I’m currently learning web3
-- 💬 Ask me anything about Web Engineering, JavaScript, Vue/Nuxt, Nodejs, SPAs, PWAs, Web Accessibility, UX, Technical Writing 
+- 💬 Ask me anything about Web Engineering, JavaScript, Vue/Nuxt, Nodejs, Technical Writing, Startups
 - 📫 How to reach me: - Twitter: [@glitzyken17](https://twitter.com/gliztyken17), - LinkedIn: [Kenneth Jimmy](https://www.linkedin.com/in/kenneth-jimmy-b84092191/), - Mail: [Send a mail!](mailto:kenjimmy17@gmail.com)
 
 - ⚡ Fun fact: I love chess ♟
