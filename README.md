@@ -4,9 +4,10 @@ Software Developer with rock-solid experience in building complex applications w
 ⚡️ **More about me**
 - ⚙️ Co-founder [Veet](https://joinveet.com/)
 - ✍🏾 I write occasionally on [Medium](https://medium.com/@glitzyken)
-- 🌱 I’m currently learning web3
+- 🌱 Learning web3
 - 💬 Ask me anything about Web Engineering, JavaScript, Vue/Nuxt, Nodejs, Technical Writing, Startups
 - 📫 How to reach me: - Twitter: [@glitzyken17](https://twitter.com/gliztyken17), - LinkedIn: [Kenneth Jimmy](https://www.linkedin.com/in/kenneth-jimmy-b84092191/), - Mail: [Send a mail!](mailto:kenjimmy17@gmail.com)
+- [Book](https://www.joinveet.com/mentor/omonigho-jimmy) a 1:1 session with me
 
 - ⚡ Fun fact: I love chess ♟
 
