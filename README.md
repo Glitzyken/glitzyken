@@ -8,6 +8,7 @@ Software Developer with rock-solid experience in building complex applications w
 - 💬 Ask me anything about Web Engineering, JavaScript, Vue/Nuxt, Nodejs, Technical Writing, Startups
 - 📫 How to reach me: - Twitter: [@glitzyken17](https://twitter.com/gliztyken17), - LinkedIn: [Kenneth Jimmy](https://www.linkedin.com/in/kenneth-jimmy-b84092191/), - Mail: [Send a mail!](mailto:kenjimmy17@gmail.com)
 - [Book](https://www.joinveet.com/mentor/kenneth-jimmy) a 1:1 session with me
+- My [Portfolio](https://kenjimmy.xyz/) site
 
 - ⚡ Fun fact: I love chess ♟
 
